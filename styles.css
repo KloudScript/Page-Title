@@ -1,0 +1,26 @@
+.header {
+    background: #071e22;
+    display: flex;
+    justify-content: center;
+    padding: 1px;
+    border-bottom: solid darkgrey 1px;
+}
+.body {
+    background: white;
+}
+.heading {
+    color: white;
+}
+.kanye {
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+.picture1 {
+    border: solid #1d7874;
+    margin-top: -5px;
+}
+.button {
+    border: black;
+    padding: 1px;
+}
